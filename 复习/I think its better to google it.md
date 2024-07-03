@@ -1,2 +1,2 @@
 [Java](./Java/Java.md)
-[Android](./Android//Android.md)
+[Android](./Android/Android.md)
